@@ -1,3 +1,6 @@
+# Migrated
+Moved to: https://codeberg.org/newteq_github_archives/sample-text-file-manager-csharp
+
 # TextFileManager
 This is a library written in c# that will help you easily read and write text files
 
